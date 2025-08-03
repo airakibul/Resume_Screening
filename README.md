@@ -110,5 +110,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ---
 
 ## Screenshots
+Image 1
 
 ![App Screenshot]( https://github.com/airakibul/Resume_Screening/blob/main/screenshots/Screenshot1.png)
