@@ -99,7 +99,7 @@ streamlit run app.py
 
 - Prediction: The ML model predicts a job category.
 
-- Result: The category is shown instantly on the screen.
+- Result: The category is shown instantly on the screen
 
 ---
 
